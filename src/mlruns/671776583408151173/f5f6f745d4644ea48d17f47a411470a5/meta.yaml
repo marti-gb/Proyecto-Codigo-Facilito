@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/671776583408151173/f5f6f745d4644ea48d17f47a411470a5/artifacts
+end_time: 1707029447754
+entry_point_name: ''
+experiment_id: '671776583408151173'
+lifecycle_stage: active
+run_id: f5f6f745d4644ea48d17f47a411470a5
+run_name: receptive-wasp-191
+run_uuid: f5f6f745d4644ea48d17f47a411470a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707029024761
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5c3633115e614d4abf36a36e02badfa2/artifacts
+deleted_time: 1706932227789
+end_time: 1706921332508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5c3633115e614d4abf36a36e02badfa2
+run_name: big-worm-511
+run_uuid: 5c3633115e614d4abf36a36e02badfa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706920930784
+status: 4
+tags: []
+user_id: User

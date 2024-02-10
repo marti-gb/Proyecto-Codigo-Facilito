@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d3608a05d644007a4c74218511746c0/artifacts
+end_time: 1706921980368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d3608a05d644007a4c74218511746c0
+run_name: intrigued-mouse-505
+run_uuid: 1d3608a05d644007a4c74218511746c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706921589608
+status: 3
+tags: []
+user_id: User

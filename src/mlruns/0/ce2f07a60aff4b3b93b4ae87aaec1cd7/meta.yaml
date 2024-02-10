@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ce2f07a60aff4b3b93b4ae87aaec1cd7/artifacts
+deleted_time: 1706915561434
+end_time: 1706914941962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ce2f07a60aff4b3b93b4ae87aaec1cd7
+run_name: useful-snake-537
+run_uuid: ce2f07a60aff4b3b93b4ae87aaec1cd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706914599350
+status: 4
+tags: []
+user_id: User

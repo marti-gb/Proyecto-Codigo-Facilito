@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/671776583408151173/a4e3debf6b634d8c82e93983dfc1e8f4/artifacts
+end_time: 1707006082495
+entry_point_name: ''
+experiment_id: '671776583408151173'
+lifecycle_stage: active
+run_id: a4e3debf6b634d8c82e93983dfc1e8f4
+run_name: orderly-seal-813
+run_uuid: a4e3debf6b634d8c82e93983dfc1e8f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707005680666
+status: 3
+tags: []
+user_id: User

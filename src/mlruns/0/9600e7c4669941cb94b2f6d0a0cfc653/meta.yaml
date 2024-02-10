@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9600e7c4669941cb94b2f6d0a0cfc653/artifacts
+deleted_time: 1706932227759
+end_time: 1706919357914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9600e7c4669941cb94b2f6d0a0cfc653
+run_name: gaudy-boar-909
+run_uuid: 9600e7c4669941cb94b2f6d0a0cfc653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706918997400
+status: 4
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/671776583408151173/1bc8633b52994925be677bc39643c7dd/artifacts
+end_time: 1707007019805
+entry_point_name: ''
+experiment_id: '671776583408151173'
+lifecycle_stage: active
+run_id: 1bc8633b52994925be677bc39643c7dd
+run_name: ambitious-hog-403
+run_uuid: 1bc8633b52994925be677bc39643c7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707006611798
+status: 3
+tags: []
+user_id: User

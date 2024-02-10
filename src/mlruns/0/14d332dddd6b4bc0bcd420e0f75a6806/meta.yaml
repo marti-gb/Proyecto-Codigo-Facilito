@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/14d332dddd6b4bc0bcd420e0f75a6806/artifacts
+deleted_time: 1706932227748
+end_time: 1706929932708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 14d332dddd6b4bc0bcd420e0f75a6806
+run_name: bold-crane-643
+run_uuid: 14d332dddd6b4bc0bcd420e0f75a6806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706929527369
+status: 4
+tags: []
+user_id: User

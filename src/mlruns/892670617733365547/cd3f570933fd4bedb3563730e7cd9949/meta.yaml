@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/892670617733365547/cd3f570933fd4bedb3563730e7cd9949/artifacts
+end_time: 1707004631211
+entry_point_name: ''
+experiment_id: '892670617733365547'
+lifecycle_stage: active
+run_id: cd3f570933fd4bedb3563730e7cd9949
+run_name: victorious-wolf-810
+run_uuid: cd3f570933fd4bedb3563730e7cd9949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707004182601
+status: 3
+tags: []
+user_id: User

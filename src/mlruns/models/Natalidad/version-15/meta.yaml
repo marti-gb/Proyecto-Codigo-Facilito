@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1707009620607
+current_stage: None
+description: ''
+last_updated_timestamp: 1707009620607
+name: Natalidad
+run_id: 795b22c5fb3f44eb9442aa68b8d75131
+run_link: ''
+source: mlflow-artifacts:/671776583408151173/795b22c5fb3f44eb9442aa68b8d75131/artifacts/Modelo_Natalidad
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/671776583408151173/795b22c5fb3f44eb9442aa68b8d75131/artifacts/Modelo_Natalidad
+user_id: null
+version: 15

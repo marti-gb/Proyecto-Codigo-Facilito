@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/39ce444b1094415a8435d97915b4289d/artifacts
+deleted_time: 1706932227746
+end_time: 1706930511359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 39ce444b1094415a8435d97915b4289d
+run_name: bedecked-gnat-758
+run_uuid: 39ce444b1094415a8435d97915b4289d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706930122508
+status: 4
+tags: []
+user_id: User

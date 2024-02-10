@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8d0771137ea04949ab038462e141575a/artifacts
+deleted_time: 1706997527852
+end_time: 1706993453805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8d0771137ea04949ab038462e141575a
+run_name: gifted-ox-182
+run_uuid: 8d0771137ea04949ab038462e141575a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706993453545
+status: 4
+tags: []
+user_id: User

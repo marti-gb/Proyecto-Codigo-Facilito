@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c888ee0b6d5f4f7e945137f9e520027e/artifacts
+end_time: 1706917437691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c888ee0b6d5f4f7e945137f9e520027e
+run_name: zealous-mink-548
+run_uuid: c888ee0b6d5f4f7e945137f9e520027e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706917016367
+status: 3
+tags: []
+user_id: User
